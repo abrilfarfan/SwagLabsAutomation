@@ -1,0 +1,6 @@
+# Ignorar carpeta de compilación de Maven
+target/
+
+# Archivos de sistema 
+.DS_Store
+Thumbs.db
